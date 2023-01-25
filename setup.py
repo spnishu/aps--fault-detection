@@ -4,7 +4,7 @@ from typing import List
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 HYPHEN_E_DOT = "-e ." #To trigger setup.py file
-8
+
 
 def get_requirements()->List[str]:
     
